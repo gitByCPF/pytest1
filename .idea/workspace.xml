@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1604a88b-e435-41ad-8f0c-5fccace28268" name="Changes" comment="电脑转移">
-      <change afterPath="$PROJECT_DIR$/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytest1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytest1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33 文件的扩展操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/33 文件的扩展操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件的扩展操作.txt" beforeDir="false" afterPath="$PROJECT_DIR$/文件的扩展操作.txt" afterDir="false" />
-    </list>
+    <list default="true" id="1604a88b-e435-41ad-8f0c-5fccace28268" name="Changes" comment="文件扩展操作" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -296,7 +289,7 @@
       <workItem from="1744264612018" duration="6101000" />
       <workItem from="1744616891516" duration="11783000" />
       <workItem from="1744671198976" duration="4436000" />
-      <workItem from="1745225000719" duration="6044000" />
+      <workItem from="1745225000719" duration="6128000" />
     </task>
     <task id="LOCAL-00001" summary="python基础语法第一天">
       <option name="closed" value="true" />
@@ -322,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745226772590</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="文件扩展操作">
+      <option name="closed" value="true" />
+      <created>1745253171010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745253171010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +371,8 @@
     <MESSAGE value="python基础语法第一天" />
     <MESSAGE value="python进阶语法" />
     <MESSAGE value="电脑转移" />
-    <option name="LAST_COMMIT_MESSAGE" value="电脑转移" />
+    <MESSAGE value="文件扩展操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件扩展操作" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytest1$25_.coverage" NAME="25 装饰器 Coverage Results" MODIFIED="1744617345143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
